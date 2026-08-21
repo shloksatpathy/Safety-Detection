@@ -1,2 +1,5 @@
 opencv-python
 torch torchvision --index-url https://download.pytorch.org/whl/cu126
+numpy 
+pandas 
+
