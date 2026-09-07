@@ -1,3 +1,6 @@
 /data
 /venv
 .python-version
+/runs
+/*.pt
+__pycache__/

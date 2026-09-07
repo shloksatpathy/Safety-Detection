@@ -8,3 +8,11 @@ This repo is meant for testing a vision runtime system taken through ONNX Tensor
 
 We are doing this to measure the computational efficiency and performance of the generated model on edge devices with limited computational powers 
 
+
+INFERENCE PARAMETER :
+1. Throughput 
+2. Latency percentile
+3. VRAM utilization
+4. accuracy delta
+
+
